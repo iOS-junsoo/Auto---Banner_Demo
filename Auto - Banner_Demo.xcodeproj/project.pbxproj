@@ -13,6 +13,7 @@
 		99B1F9E4271A76ED004C841F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99B1F9E2271A76ED004C841F /* Main.storyboard */; };
 		99B1F9E6271A76EF004C841F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99B1F9E5271A76EF004C841F /* Assets.xcassets */; };
 		99B1F9E9271A76EF004C841F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99B1F9E7271A76EF004C841F /* LaunchScreen.storyboard */; };
+		99B1F9F1271A77BF004C841F /* BannerCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B1F9F0271A77BF004C841F /* BannerCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		99B1F9E5271A76EF004C841F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99B1F9E8271A76EF004C841F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99B1F9EA271A76EF004C841F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99B1F9F0271A77BF004C841F /* BannerCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				99B1F9DC271A76ED004C841F /* AppDelegate.swift */,
 				99B1F9DE271A76ED004C841F /* SceneDelegate.swift */,
 				99B1F9E0271A76ED004C841F /* ViewController.swift */,
+				99B1F9F0271A77BF004C841F /* BannerCollectionViewCell.swift */,
 				99B1F9E2271A76ED004C841F /* Main.storyboard */,
 				99B1F9E5271A76EF004C841F /* Assets.xcassets */,
 				99B1F9E7271A76EF004C841F /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				99B1F9E1271A76ED004C841F /* ViewController.swift in Sources */,
 				99B1F9DD271A76ED004C841F /* AppDelegate.swift in Sources */,
+				99B1F9F1271A77BF004C841F /* BannerCollectionViewCell.swift in Sources */,
 				99B1F9DF271A76ED004C841F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
